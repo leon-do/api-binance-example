@@ -1,1 +1,1 @@
-https://binance-api-example.herokuapp.com/
+https://api-binance-example.herokuapp.com/
